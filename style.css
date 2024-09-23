@@ -10,7 +10,7 @@
 }
 
 #bigscreen{
-    background-image: url(/login_desktop.png);
+    background-image: url(./login_desktop.png);
     height: 100vh;
     color: white;
     padding-left: 45px;
